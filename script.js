@@ -1,0 +1,4 @@
+let name = 'Vitor'
+let age = 21;
+
+console.log('${name} is ${age}')
