@@ -9,3 +9,7 @@ function Testando (){
 }
 
 Testando()
+
+
+Testando()
+Exibir()
