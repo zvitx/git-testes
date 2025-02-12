@@ -1,5 +1,5 @@
-function Somar(n, n2){
-    console.log(n+n2)
+function Exibir(){
+    alert('mensagem teste')
 }
 
 Exibir()
@@ -11,5 +11,5 @@ function Testando (){
 Testando()
 
 
-Somar(10, 12)
+Testando()
 Exibir()
