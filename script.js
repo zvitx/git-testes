@@ -1,7 +1,8 @@
 let name = 'Vitor'
 let age = 21;
-let energy = 10;
-let test = 'hello hello'
 
-console.log('${name} is ${age}')
-console.log('Teste, console.log')
+console.log('Meu nome é , ${name}, tenho ${age} anos')
+
+let soma = age+15;
+
+console.log('Daqui 15 anos terei ${soma} anos')
