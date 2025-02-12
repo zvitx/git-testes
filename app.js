@@ -3,3 +3,9 @@ function Exibir(){
 }
 
 Exibir()
+
+function Testando (){
+    alert('alouuuuuuuuu')
+}
+
+Testando()
