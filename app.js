@@ -1,15 +1,12 @@
-function Exibir(){
-    alert('mensagem teste')
+function Somar(n, n2){
+    console.log(n+n2)
 }
 
 Exibir()
 
-function Testando (){
-    alert('alouuuuuuuuu')
+function Somar (n1,n2){
+    alert(n1+n2)
 }
 
-Testando()
-
-
-Testando()
+Somar(10, 12)
 Exibir()
